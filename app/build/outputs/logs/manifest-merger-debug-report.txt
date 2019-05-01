@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bde2036810eb2d0ffec24a755d4f4e0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c031621c70a804d02edb406e5ef0980e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\abf3d2f55898c9a048dcb653b680cc8d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\b745729d7a6ca8b42417f540b6cd61b1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\a7ff4f9524bdd940202d6c40db8666da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\69d94835215db2a6ed550cf3e77b70aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\6ba533677938f08cddb4e749e19205ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bebc9a51b3c3a054384db5e62c422dd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5d5ed93dc5ebfb33f695d62b5332a408\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c0653f9f35d5bb1af2668e0393ba3ef1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\1ace9c2f85336c42a9f743cd4748a3de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5f7d79d595ca6f9d7b281102bf2ccdea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\687f88406d12506982257abcb49e51dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\fbf9b6ef86b889bec09e326ffb34731a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\838acfb3084834629dba9d3d01b717e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8e0db35d1fe01074a5a6fc56f6b700da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5274db68db0bf680642970b2004970e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bb668b6760b8a815015742d493c263d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8ae58ff1c58b561e4baaef3aac57014b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\144e9374d0e2fe6fc339119b07090de0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d13ac8cba2278890b6b4da4b294d5d08\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\ee7ff2c78de59dd832c85f2b4c3c02fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\eed4ef9bdcb09d5fca57c041eab22a45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d6960bba2053fc3f11e127d454747992\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\9340074f1180a79d4400ef860ef1e761\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\ac422869fd917ede1636d2c160ca7829\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c0953787bd6fdf8973e829b1b2993ccd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\6837684817f85f131cc5f06a50aa8ca8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\1b5112e5a7d338265caa887715f87677\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d19e294f32caae41a7f6c5cca4143aa6\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c031621c70a804d02edb406e5ef0980e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c031621c70a804d02edb406e5ef0980e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8ae58ff1c58b561e4baaef3aac57014b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8ae58ff1c58b561e4baaef3aac57014b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\144e9374d0e2fe6fc339119b07090de0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\144e9374d0e2fe6fc339119b07090de0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8ae58ff1c58b561e4baaef3aac57014b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.desginbp.VideoActivity
+ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:12:19-48
+activity#com.example.desginbp.MainActivity
+ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bde2036810eb2d0ffec24a755d4f4e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bde2036810eb2d0ffec24a755d4f4e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c031621c70a804d02edb406e5ef0980e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c031621c70a804d02edb406e5ef0980e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\abf3d2f55898c9a048dcb653b680cc8d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\abf3d2f55898c9a048dcb653b680cc8d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\b745729d7a6ca8b42417f540b6cd61b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\b745729d7a6ca8b42417f540b6cd61b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\a7ff4f9524bdd940202d6c40db8666da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\a7ff4f9524bdd940202d6c40db8666da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\69d94835215db2a6ed550cf3e77b70aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\69d94835215db2a6ed550cf3e77b70aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\6ba533677938f08cddb4e749e19205ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\6ba533677938f08cddb4e749e19205ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bebc9a51b3c3a054384db5e62c422dd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bebc9a51b3c3a054384db5e62c422dd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5d5ed93dc5ebfb33f695d62b5332a408\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5d5ed93dc5ebfb33f695d62b5332a408\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c0653f9f35d5bb1af2668e0393ba3ef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c0653f9f35d5bb1af2668e0393ba3ef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\1ace9c2f85336c42a9f743cd4748a3de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\1ace9c2f85336c42a9f743cd4748a3de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5f7d79d595ca6f9d7b281102bf2ccdea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5f7d79d595ca6f9d7b281102bf2ccdea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\687f88406d12506982257abcb49e51dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\687f88406d12506982257abcb49e51dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\fbf9b6ef86b889bec09e326ffb34731a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\fbf9b6ef86b889bec09e326ffb34731a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\838acfb3084834629dba9d3d01b717e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\838acfb3084834629dba9d3d01b717e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8e0db35d1fe01074a5a6fc56f6b700da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8e0db35d1fe01074a5a6fc56f6b700da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5274db68db0bf680642970b2004970e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\5274db68db0bf680642970b2004970e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bb668b6760b8a815015742d493c263d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\bb668b6760b8a815015742d493c263d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8ae58ff1c58b561e4baaef3aac57014b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\8ae58ff1c58b561e4baaef3aac57014b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\144e9374d0e2fe6fc339119b07090de0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\144e9374d0e2fe6fc339119b07090de0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d13ac8cba2278890b6b4da4b294d5d08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d13ac8cba2278890b6b4da4b294d5d08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\ee7ff2c78de59dd832c85f2b4c3c02fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\ee7ff2c78de59dd832c85f2b4c3c02fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\eed4ef9bdcb09d5fca57c041eab22a45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\eed4ef9bdcb09d5fca57c041eab22a45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d6960bba2053fc3f11e127d454747992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d6960bba2053fc3f11e127d454747992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\9340074f1180a79d4400ef860ef1e761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\9340074f1180a79d4400ef860ef1e761\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\ac422869fd917ede1636d2c160ca7829\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\ac422869fd917ede1636d2c160ca7829\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c0953787bd6fdf8973e829b1b2993ccd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\c0953787bd6fdf8973e829b1b2993ccd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\6837684817f85f131cc5f06a50aa8ca8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\6837684817f85f131cc5f06a50aa8ca8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\1b5112e5a7d338265caa887715f87677\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\1b5112e5a7d338265caa887715f87677\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d19e294f32caae41a7f6c5cca4143aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\indzola\.gradle\caches\transforms-2\files-2.1\d19e294f32caae41a7f6c5cca4143aa6\AndroidManifest.xml:20:5-44
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Sohit\DesginBP\app\src\main\AndroidManifest.xml
